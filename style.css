@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.me{
+    width: 150px;
+}
+.bom{
+    width: 400px;
+    margin:0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color:whitesmoke;
+    color:palevioletred;
+    border-bottom:5px solid rgb(196, 35, 62);
+}
+.border-pink{
+    border: 1px double pink;
+}
+h4,p{
+    text-align: center;
+}
